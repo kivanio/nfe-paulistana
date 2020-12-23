@@ -20,7 +20,7 @@ GEM
       rack
     nokogiri (1.5.9)
     nori (1.1.5)
-    rack (1.4.5)
+    rack (2.2.3)
     rspec (2.10.0)
       rspec-core (~> 2.10.0)
       rspec-expectations (~> 2.10.0)
