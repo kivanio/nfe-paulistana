@@ -18,7 +18,9 @@ GEM
       builder (>= 2.1.2)
     httpi (0.9.7)
       rack
-    nokogiri (1.5.9)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
     nori (1.1.5)
     rack (1.4.5)
     rspec (2.10.0)
